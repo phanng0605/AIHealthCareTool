@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "finalfantasyxv-main",
+			"path": "."
+		},
+		{
+			"name": "pdf_folder",
+			"path": "../finalfantasyxv-main-2/pdf_folder"
+		}
+	],
+	"settings": {}
+}
